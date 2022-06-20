@@ -44,6 +44,7 @@
 | 1 | [Remix IDE](https://remix.ethereum.org/) | A web based IDE for smart contract development by users at every knowledge level. Write, compile, test, and deploy your Solidity smart contracts pushing a button. It requires no setup, fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. The IDE comes in 2 flavors (web app or desktop app) and as a VSCode extension. Supports Firefox, Chrome, Brave browser |
 | 2 | [Hardhat](https://hardhat.org/) | Local Ethereum development environment. Easily deploy smart contracts, run tests and debug Solidity code in your local environment. Fully extensible with plugins. |
 | 3 | [moralis](https://moralis.io/) | Provided Web3 SDK for Easy Authentication, IPFS Integration, DApp Hosting. Web3 API to query data from any chain such as block info, transaction info, NFT metadata, token prices, user balances, owner list of a particular NFT |
+| 4 | [Arcana Network](https://arcana.network/) | Decentralised storage, identity, access management and key management services to help developers build secure and privacy-preserving apps. |
 
 ## Books
 
