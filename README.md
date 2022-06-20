@@ -11,6 +11,7 @@
 * 👩‍🏫 [Videos and articles](#videos-and-articles)
 * 💼 [Job Board](#job-board)
 * 📩 [News Letters](#news-letters)
+* 👨‍👨‍👧‍👦 [Communities](#communities)
 * ⚡ [Other Interesting Projects](#other-interesting-projects)
 
 
@@ -38,6 +39,9 @@
 | 11 | [⚒ ETH.Build](https://eth.build/) | An Educational Sandbox For Web3...Drag-and-Drop Programming, Open Source Building Blocks, Open Source Building Blocks | Free | Beginner, Intermediate |
 | 12 | [odyssey](https://www.odysseydao.com/learn) | Intro to Web3, NFT, DeFi, DAOs & More | Free | Beginner, Intermediate |
 | 13 | [🔮 metaschool](https://metaschool.so/) | hangout to learn web3 with each other, collaborate on projects, earn NFTs for completing their work, and connect with talented folks building the future of the web! | Free | Beginner, Intermediate |
+| 14 | [Crypto Startup School](https://a16z.com/crypto-startup-school/) | Learn How to Build a Crypto Company. videos from a16z’s Crypto Startup School | Free | Intermediate, Advance |
+| 15 | [intro-to-cryptocurrency](https://www.preethikasireddy.com/intro-to-cryptocurrency) | Beginner guide to crypto  | Free | Beginner |
+| 16 | [dappcamp](https://www.dappcamp.xyz/) | Become a Web 3.0 developer in 3 weeks. hands-on experience on how to architect, develop, and scale a Web 3.0 app on Ethereum  | Paid | Beginner, Intermediate, Advance |
 
 
 ## Tools
@@ -65,6 +69,11 @@
 | 3 | [Web3.js Intro](https://www.youtube.com/watch?v=t3wM5903ty0) | Web3.js Intro |
 | 4 | [Full Stack Ethereum Development](https://www.youtube.com/watch?v=a0osIaAOFSE) | The Complete Guide to Full Stack Ethereum Development - Tutorial for Beginners |
 | 5 | [Solidity, Blockchain, and Smart Contract Course](https://www.youtube.com/watch?v=M576WGiDBdQ) | Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial |
+| 6 | [Blockchain Glossary](https://blockchainhub.net/blockchain-glossary/) | A-Z glossary of blockchain |
+| 7 | [📚 Beginners Guide to Blockchain](https://arcananetwork.notion.site/Beginners-Guide-to-Blockchain-0ab316960ffc4956b9acf1af0233e607) | A curated resource by Arcana.network |
+| 8 | [📚 Community DAOs](https://p.mirror.xyz/cVN3KOss0uqpZwxHQKtC4Syvn1RfXaxofFKHJuKLWS4) | A detailed article on community DAO |
+| 9 | [I'm Quitting Web2 (And So Should You)](https://ff.mirror.xyz/bZ8GAWV25WkuRwe1Tftqgy0xV-7Y7VHeRUWbDcpuQVo) | A personal & motivating story on quitting web2.0 |
+| 10 | [web3 starter pack 🏄🏾‍♂️](https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc/edit#) | Curated contents on getting stared with Web3 & basics |
 
 
 ## Job Board
@@ -84,6 +93,12 @@
 | **#** | **Link** | **About**| **Author(s)**|
 |:-:|:-:|:-:|:-:
 | 1 | [Milk Road](https://www.milkroad.com/) |  5 minute daily newsletter. Used by 100,000+ people to be better crypto investors 💪 | [Shaan Puri](https://twitter.com/ShaanVP) |
+
+## Communities
+
+| **#** | **Name & Link** | **About** |
+|:-:|:-:|:-:
+| 1 | [Bored Ape Yacht Club](https://discord.com/invite/3P5K3dzgdB) | |
 
 
 ## Other Interesting Projects
