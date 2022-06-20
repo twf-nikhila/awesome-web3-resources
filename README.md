@@ -76,9 +76,9 @@
 
 ## News Letters
 
-| **#** | **Link** | **Author**|
-|:-:|:-:|:-:
-| 1 | [example.com](https://example.com) | [author.com](https://author-link.com) |
+| **#** | **Link** | **About**| **Author(s)**|
+|:-:|:-:|:-:|:-:
+| 1 | [Milk Road](https://www.milkroad.com/) |  5 minute daily newsletter. Used by 100,000+ people to be better crypto investors 💪 | [Shaan Puri](https://twitter.com/ShaanVP) |
 
 
 ## Other Interesting Projects
