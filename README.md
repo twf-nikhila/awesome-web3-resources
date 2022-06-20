@@ -87,3 +87,4 @@
 | **#** | **Project Link** | **About**|
 |:-:|:-:|:-:
 | 1 | [Web3.Storage](https://web3.storage/) | decentralized storaging of Data via our API or our web UI for free. IPFS and Filecoin storage providers |
+| 2 | [Web3 Funding Database](https://docs.google.com/spreadsheets/d/1Qd42u8WWnu5yYOAE5u-qLjjbLTlqGKzfFmOywHBBLFQ/edit#gid=246452209) | Database of all Web3 companies funding by Milkroad |
