@@ -72,6 +72,7 @@
 | 3 | [Crypto Jobs](https://crypto.jobs/) |
 | 4 | [Crypto Jobs List](https://cryptojobslist.com/) |
 | 5 | [DEFi jobs](https://www.defi.jobs/) |
+| 6 | [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) |
 
 
 ## News Letters
