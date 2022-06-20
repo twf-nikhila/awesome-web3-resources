@@ -8,7 +8,7 @@
 * 👨‍🏫 [Courses](#courses)
 * 🛠 [Tools](#tools)
 * 📚 [Books](#books)
-* 👩‍🏫 [Videos](#videos)
+* 👩‍🏫 [Videos and articles](#videos-and-articles)
 * 💼 [Job Board](#job-board)
 * 📩 [News Letters](#news-letters)
 * ⚡ [Other Interesting Projects](#other-interesting-projects)
@@ -52,11 +52,15 @@
 | 1 | [example.com](https://example.com) | Author name |
 
 
-## Videos
+## Videos and articles
 
-| **#** | **Link** | **Video Title**|
+| **#** | **Link** | **Description**|
 |:-:|:-:|:-:
-| 1 | [example.com](https://example.com) | Exxample video title |
+| 1 | [Dapp University](https://www.youtube.com/c/DappUniversity/videos) | Youtube channel on everything related to blockchain |
+| 2 | [Nader Dabit](https://www.youtube.com/c/naderdabit/videos) | Youtube channel on modern web development, Web3, DeFi, cloud computing, and GraphQL |
+| 3 | [Web3.js Intro](https://www.youtube.com/watch?v=t3wM5903ty0) | Web3.js Intro |
+| 4 | [Full Stack Ethereum Development](https://www.youtube.com/watch?v=a0osIaAOFSE) | The Complete Guide to Full Stack Ethereum Development - Tutorial for Beginners |
+| 5 | [Solidity, Blockchain, and Smart Contract Course](https://www.youtube.com/watch?v=M576WGiDBdQ) | Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial |
 
 
 ## Job Board
