@@ -15,7 +15,16 @@
 * ⚡ [Other Interesting Projects](#other-interesting-projects)
 
 
-**To contribute:**
+## Contribute 🤝
+All meaningful & valuable resource contribution are welcome. 
+
+Contribution includes:
+- Adding new resource ➕
+- Removing outdated resource 🗑️
+- Suggestion to improve 👌
+
+### How to Contribute
+
 1. Edit this README.md & Send a pull request adding the details in relevant sections.
 2. Or Send the details in issues section
 
