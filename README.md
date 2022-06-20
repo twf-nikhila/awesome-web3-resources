@@ -30,6 +30,10 @@
 | 4 | [encode club](https://www.encode.club/) | Learn, Build, Get hired & funding. Learn leading protocols in crypto. Participates in hackathon. Join Community | Free | Beginner, Intermediate, Advance |
 | 5 | [LearnWeb3](https://www.learnweb3.io/) | Crash course on Javascript. Learn about gas, mining, and consensus. Get better at Solidity. Build full stack dApps, NFT collections, ICO tokens, a DAO, and a DeFi protocol. Build with Chainlink, ENS, The Graph, IPFS, Ceramic, Polygon, NEAR, and more! Gas optimizations in smart contracts. Advanced Solidity design patterns. | Free | Beginner, Intermediate, Advance |
 | 6 | [buildspace](https://buildspace.so/) | Learn ETH, Solana, Solana NFT, Polygon, DAO. Bi-weekly cohort-based courses. Join Community | Free | Beginner, Intermediate, Advance |
+| 7 | [DAppUniversity](https://www.dappuniversity.com/bootcamp) | Email based course on BECOME A HIGHLY PAID BLOCKCHAIN DEVELOPER!. Many vidoes & articles on Web3 | Free | Beginner, Intermediate |
+| 8 | [Solidity by Example](https://solidity-by-example.org/) | an introduction to Solidity with simple examples | Free | Beginner |
+| 9 | [Smart Contract Engineer](https://www.smartcontract.engineer/) | Solidity and Vyper based challenges with leaderboard | Free | Beginner |
+| 10 | [Bloomtech Web3 course](https://www.bloomtech.com/courses/web3) | Learn Web3 basics including blockchain, Ethereum, Solidity, DeFi, and smart contracts with our project-based curriculum, in as few as 10 weeks. | Paid | Beginner, Intermediate |
 
 
 ## Tools
