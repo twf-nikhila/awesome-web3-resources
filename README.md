@@ -16,18 +16,22 @@
 
 
 ## Contribute 🤝
-All meaningful & valuable resource contribution are welcome. 
 
-Contribution includes:
-- Adding new resource ➕
-- Removing outdated resource 🗑️
-- Suggestion to improve 👌
+*Alone we can do so little but together we can do so much.* 
+
+Please contribute any valuable resource to this repository to make it useful for every web3 enthusiastic. You can:
+- Add new resource ➕
+- Remove outdated resource 🗑️
+- Suggest to improve 👌
 
 ### How to Contribute
 
 1. Edit this README.md & Send a pull request adding the details in relevant sections.
 2. Or Send the details in issues section
 
+
+### Share:
+Please share it among your friend, collegues, students & communities.
 
 ***
 
