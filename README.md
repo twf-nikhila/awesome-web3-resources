@@ -35,6 +35,9 @@
 | 8 | [Solidity by Example](https://solidity-by-example.org/) | an introduction to Solidity with simple examples | Free | Beginner |
 | 9 | [Smart Contract Engineer](https://www.smartcontract.engineer/) | Solidity and Vyper based challenges with leaderboard | Free | Beginner |
 | 10 | [Bloomtech Web3 course](https://www.bloomtech.com/courses/web3) | Learn Web3 basics including blockchain, Ethereum, Solidity, DeFi, and smart contracts with our project-based curriculum, in as few as 10 weeks. | Paid | Beginner, Intermediate |
+| 11 | [⚒ ETH.Build](https://eth.build/) | An Educational Sandbox For Web3...Drag-and-Drop Programming, Open Source Building Blocks, Open Source Building Blocks | Free | Beginner, Intermediate |
+| 12 | [odyssey](https://www.odysseydao.com/learn) | Intro to Web3, NFT, DeFi, DAOs & More | Free | Beginner, Intermediate |
+| 13 | [🔮 metaschool](https://metaschool.so/) | hangout to learn web3 with each other, collaborate on projects, earn NFTs for completing their work, and connect with talented folks building the future of the web! | Free | Beginner, Intermediate |
 
 
 ## Tools
