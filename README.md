@@ -99,6 +99,10 @@
 | **#** | **Name & Link** | **About** |
 |:-:|:-:|:-:
 | 1 | [Bored Ape Yacht Club](https://discord.com/invite/3P5K3dzgdB) | |
+| 2 | [LearnWeb3DAO](https://discord.gg/WHSePnsW) | |
+| 3 | [Buildspace](https://discord.gg/buildspace) | |
+| 4 | [QuestBook](https://discord.gg/PYbqgqaU) | |
+| 5 | [CoinSutra Community](https://discord.gg) | |
 
 
 ## Other Interesting Projects
