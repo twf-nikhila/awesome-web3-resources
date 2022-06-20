@@ -11,6 +11,7 @@
 * 👩‍🏫 [Videos](#videos)
 * 💼 [Job Board](#job-board)
 * 📩 [News Letters](#news-letters)
+* ⚡ [Other Interesting Projects](#other-interesting-projects)
 
 
 **To contribute:**
@@ -74,3 +75,10 @@
 | **#** | **Link** | **Author**|
 |:-:|:-:|:-:
 | 1 | [example.com](https://example.com) | [author.com](https://author-link.com) |
+
+
+## Other Interesting Projects
+
+| **#** | **Project Link** | **About**|
+|:-:|:-:|:-:
+| 1 | [Web3.Storage](https://web3.storage/) | decentralized storaging of Data via our API or our web UI for free. IPFS and Filecoin storage providers |
