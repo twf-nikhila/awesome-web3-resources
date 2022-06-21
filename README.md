@@ -9,6 +9,7 @@
 * 🛠 [Tools](#tools)
 * 📚 [Books](#books)
 * 👩‍🏫 [Videos and articles](#videos-and-articles)
+* 🧪 [Demo Projects](#demo-projects)
 * 💼 [Job Board](#job-board)
 * 📩 [News Letters](#news-letters)
 * 👨‍👨‍👧‍👦 [Communities](#communities)
@@ -87,6 +88,15 @@ Please share it among your friend, collegues, students & communities.
 | 8 | [📚 Community DAOs](https://p.mirror.xyz/cVN3KOss0uqpZwxHQKtC4Syvn1RfXaxofFKHJuKLWS4) | A detailed article on community DAO |
 | 9 | [I'm Quitting Web2 (And So Should You)](https://ff.mirror.xyz/bZ8GAWV25WkuRwe1Tftqgy0xV-7Y7VHeRUWbDcpuQVo) | A personal & motivating story on quitting web2.0 |
 | 10 | [web3 starter pack 🏄🏾‍♂️](https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc/edit#) | Curated contents on getting stared with Web3 & basics |
+| 11 | [Implement Multi Send on Ethereum by Smart Contract with solidity](https://medium.com/coinmonks/implement-multi-send-on-ethereum-by-smart-contract-with-solidity-47e0bf82b60c) | Multi Send on Ethereum by Mahdi Darabi |
+
+
+## Demo Projects
+
+| **#** | **Name** |
+|:-:|:-:
+| 1 | [How to Build a Full Stack NFT Marketplace on Ethereum with Polygon and Next.js - 2021 Tutorial](https://www.youtube.com/watch?v=GKJBEEXUha0) |
+| 2 | [Developing a ToDo list dApp in Ethereum](https://medium.com/thecryptoelement/developing-a-todo-list-dapp-in-ethereum-e4daf8a9ea5c) |
 
 
 ## Job Board
