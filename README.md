@@ -141,9 +141,9 @@ Please share it among your friend, collegues, students & communities.
 
 ## Web3 VC
 
-| **#** | **Name** | **Contact (Website, Twitter, Email) ** |
-|:-:|:-:|:-:
-| 1 | Example name | [Twitter](https://twitter.com/handle) |
+| **#** | **Name** | **About/Designation** |**Contact (Website, Twitter, Email)** |
+|:-:|:-:|:-:|:-:
+| 1 | Example name | About | [Twitter](https://twitter.com/handle)  [website](https://website.com)   |
 
 
 ## Other Interesting Projects
