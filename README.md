@@ -56,6 +56,7 @@ Please share it among your friend, collegues, students & communities.
 | 14 | [Crypto Startup School](https://a16z.com/crypto-startup-school/) | Learn How to Build a Crypto Company. videos from a16z’s Crypto Startup School | Free | Intermediate, Advance |
 | 15 | [intro-to-cryptocurrency](https://www.preethikasireddy.com/intro-to-cryptocurrency) | Beginner guide to crypto  | Free | Beginner |
 | 16 | [dappcamp](https://www.dappcamp.xyz/) | Become a Web 3.0 developer in 3 weeks. hands-on experience on how to architect, develop, and scale a Web 3.0 app on Ethereum  | Paid | Beginner, Intermediate, Advance |
+| 17 | [cadena](https://cadena.dev/) | Learn by coding smart contracts, NFTs, tokens and more. Earn an NFT Certificate that unlocks exclusive job opportunities and perks.  | Free | Beginner, Intermediate |
 
 
 ## Tools
@@ -66,6 +67,9 @@ Please share it among your friend, collegues, students & communities.
 | 2 | [Hardhat](https://hardhat.org/) | Local Ethereum development environment. Easily deploy smart contracts, run tests and debug Solidity code in your local environment. Fully extensible with plugins. |
 | 3 | [moralis](https://moralis.io/) | Provided Web3 SDK for Easy Authentication, IPFS Integration, DApp Hosting. Web3 API to query data from any chain such as block info, transaction info, NFT metadata, token prices, user balances, owner list of a particular NFT |
 | 4 | [Arcana Network](https://arcana.network/) | Decentralised storage, identity, access management and key management services to help developers build secure and privacy-preserving apps. |
+| 5 | [ramper](https://www.ramper.xyz/) | Onboard users instantly, Free web3 SDK for auth, key management, and fiat onramp. |
+| 6 | [odyssey](https://odyssey.org/) | Open source metaverse stack for Web3 communities |
+| 7 | [Chainlink](https://chain.link/) | largest collection of decentralized services powering the world’s hybrid smart contracts |
 
 ## Books
 
@@ -98,6 +102,7 @@ Please share it among your friend, collegues, students & communities.
 | 1 | [How to Build a Full Stack NFT Marketplace on Ethereum with Polygon and Next.js - 2021 Tutorial](https://www.youtube.com/watch?v=GKJBEEXUha0) |
 | 2 | [Developing a ToDo list dApp in Ethereum](https://medium.com/thecryptoelement/developing-a-todo-list-dapp-in-ethereum-e4daf8a9ea5c) |
 | 3 | [Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 1](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2) |
+| 4 | [Build a Practical NFT Ticketing Service with Solidity and React](https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c) |
 
 
 ## Job Board
