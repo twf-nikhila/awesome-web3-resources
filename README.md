@@ -58,6 +58,7 @@ Please share it among your friend, collegues, students & communities.
 | 16 | [dappcamp](https://www.dappcamp.xyz/) | Become a Web 3.0 developer in 3 weeks. hands-on experience on how to architect, develop, and scale a Web 3.0 app on Ethereum  | Paid | Beginner, Intermediate, Advance |
 | 17 | [cadena](https://cadena.dev/) | Learn by coding smart contracts, NFTs, tokens and more. Earn an NFT Certificate that unlocks exclusive job opportunities and perks.  | Free | Beginner, Intermediate |
 | 18 | [Blockchain by Berkeley](https://blockchain.berkeley.edu/courses/) | Blockchain Fundamentals & Blockchain Developers course  | Free | Beginner |
+| 18 | [Figment Learn](https://learn.figment.io/) | Learn Avalance, Celo, Ceramic,Cosmos, Ethereum, Mina, Near, Oasis, Polkadot, Polygon, Pyth, Secret, Solana, Tezos, TheGraph.  | Free | Beginner, Intermediate |
 
 
 ## Tools
