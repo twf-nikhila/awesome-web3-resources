@@ -74,6 +74,7 @@ Please share it among your friend, collegues, students & communities.
 | 6 | [odyssey](https://odyssey.org/) | Open source metaverse stack for Web3 communities |
 | 7 | [Chainlink](https://chain.link/) | largest collection of decentralized services powering the world’s hybrid smart contracts |
 | 8 | [dappkit](https://github.com/taikai/dappkit) | A framework to build web3 dapps with javascript/typescript |
+| 9 | [web3uikit](https://web3uikit.com/) | Lightweight reusable Web3 UI components for dapps developers. Web3UIKit accelerates your dapp development and empowers you to build beautiful dapps. |
 
 ## Books
 
