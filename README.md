@@ -73,6 +73,7 @@ Please share it among your friend, collegues, students & communities.
 | 5 | [ramper](https://www.ramper.xyz/) | Onboard users instantly, Free web3 SDK for auth, key management, and fiat onramp. |
 | 6 | [odyssey](https://odyssey.org/) | Open source metaverse stack for Web3 communities |
 | 7 | [Chainlink](https://chain.link/) | largest collection of decentralized services powering the world’s hybrid smart contracts |
+| 8 | [dappkit](https://github.com/taikai/dappkit) | A framework to build web3 dapps with javascript/typescript |
 
 ## Books
 
