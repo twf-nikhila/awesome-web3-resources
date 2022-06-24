@@ -143,8 +143,29 @@ Please share it among your friend, collegues, students & communities.
 
 | **#** | **Name** | **About/Designation** |**Contact (Website, Twitter, Email)** |
 |:-:|:-:|:-:|:-:
-| 1 | Example name | About | [Twitter](https://twitter.com/handle)  [website](https://website.com)   |
-
+| 1 | Republic Crypto | About | [Twitter](https://twitter.com/joinrepublic)  [website](https://republic.com/crypto)   |
+| 2 | AU21 Capital | About | [Twitter](https://twitter.com/au21capital?lang=en)  [website](https://au21.capital/)   |
+| 3 | Woodstock | About | [Twitter](https://twitter.com/Woodstockfund)  [website](https://woodstockfund.com/)   |
+| 4 | Paradigm Shift VC | About | [website](https://www.paradigmshift.vc/)   |
+| 5 | Hyperedge Capital | About | [Email](info@hyperedge.captial)  [website](https://www.hyperedge.capital/)   |
+| 6 | LD Capital | About | [Twitter](https://twitter.com/ld_capital)  [website](https://ldcap.com/)   |
+| 7 | Digital Currency Group | About | [Twitter](https://twitter.com/DCGco)  [website](https://dcg.co/)   |
+| 8 | Arcanum Capital | About | [Twitter](https://twitter.com/arcanumcapital)  [website](https://www.arcanum.capital/)   |
+| 9 | SHL Capital | About |
+| 10 | Fenbushi Capital | About | [Twitter](https://twitter.com/fenbushi)  [website](https://www.fenbushicapital.vc/index_en.html)   |
+| 11 | Ganesh Swami | CEO, Covalent | [Twitter](https://twitter.com/gane5h) |
+| 12 | Tamar. M | Co-Founder, WazirX | [Twitter](https://twitter.com/tamarincrypto?lang=en) |
+| 13 | Nischal Shetty | Co-Founder and CEO, WazirX | [Twitter](https://twitter.com/NischalShetty?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) |
+| 14 | Kenetic Capital | Co-Founder, Polygon | [website](https://kenetic.capital/) |
+| 15 | Aniket. J | Co-Founder, Biconomy | [Twitter](https://mobile.twitter.com/aniket_jindal08) |
+| 16 | Santiago. S | Ex-General Partner, Parafi Capital  |
+| 17 | Balaji. S | Ex-CTO, Coinbase | [Twitter](https://twitter.com/balajis) |
+| 18 | JD Kanani | Co-Founder, Polygon | [Twitter](https://mobile.twitter.com/jdkanani) |
+| 19 | Ajit Tripathi | Head of Institutional Business, Aave |
+| 20 | John Lilic | Ex ConsenSys | 
+| 21 | Sandeep. N | Co-Founder, Polygon | [Twitter](https://twitter.com/sandeepnailwal?lang=en) |
+| 22 | Kendrick. N | CEO, Republic | [Twitter](https://twitter.com/kendrickesq?lang=en) |
+| 23 | Siddharth. M | Co-Founder, WazirX | [Twitter](https://twitter.com/buddhasource) |
 
 ## Other Interesting Projects
 
