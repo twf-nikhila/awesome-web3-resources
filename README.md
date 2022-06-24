@@ -98,6 +98,7 @@ Please share it among your friend, collegues, students & communities.
 | 9 | [I'm Quitting Web2 (And So Should You)](https://ff.mirror.xyz/bZ8GAWV25WkuRwe1Tftqgy0xV-7Y7VHeRUWbDcpuQVo) | A personal & motivating story on quitting web2.0 |
 | 10 | [web3 starter pack 🏄🏾‍♂️](https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc/edit#) | Curated contents on getting stared with Web3 & basics |
 | 11 | [Implement Multi Send on Ethereum by Smart Contract with solidity](https://medium.com/coinmonks/implement-multi-send-on-ethereum-by-smart-contract-with-solidity-47e0bf82b60c) | Multi Send on Ethereum by Mahdi Darabi |
+| 12 | [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://blog.suhailkakar.com/the-complete-roadmap-and-resources-to-become-a-web3-developer-in-2022#heading-web3js) | The Complete Roadmap and Resources to Become a Web3 Developer in 2022 |
 
 
 ## Demo Projects
