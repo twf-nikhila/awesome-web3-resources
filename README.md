@@ -59,7 +59,8 @@ Please share it among your friend, collegues, students & communities.
 | 16 | [dappcamp](https://www.dappcamp.xyz/) | Become a Web 3.0 developer in 3 weeks. hands-on experience on how to architect, develop, and scale a Web 3.0 app on Ethereum  | Paid | Beginner, Intermediate, Advance |
 | 17 | [cadena](https://cadena.dev/) | Learn by coding smart contracts, NFTs, tokens and more. Earn an NFT Certificate that unlocks exclusive job opportunities and perks.  | Free | Beginner, Intermediate |
 | 18 | [Blockchain by Berkeley](https://blockchain.berkeley.edu/courses/) | Blockchain Fundamentals & Blockchain Developers course  | Free | Beginner |
-| 18 | [Figment Learn](https://learn.figment.io/) | Learn Avalance, Celo, Ceramic,Cosmos, Ethereum, Mina, Near, Oasis, Polkadot, Polygon, Pyth, Secret, Solana, Tezos, TheGraph.  | Free | Beginner, Intermediate |
+| 19 | [Figment Learn](https://learn.figment.io/) | Learn Avalance, Celo, Ceramic,Cosmos, Ethereum, Mina, Near, Oasis, Polkadot, Polygon, Pyth, Secret, Solana, Tezos, TheGraph.  | Free | Beginner, Intermediate |
+| 20 | [WagmiPedia](https://www.wagmipedia.xyz/) | Curated resources for designers, developers, and business people to get on the web3 hype train.  | Paid | Beginner, Intermediate |
 
 
 ## Tools
@@ -75,6 +76,7 @@ Please share it among your friend, collegues, students & communities.
 | 7 | [Chainlink](https://chain.link/) | largest collection of decentralized services powering the world’s hybrid smart contracts |
 | 8 | [dappkit](https://github.com/taikai/dappkit) | A framework to build web3 dapps with javascript/typescript |
 | 9 | [web3uikit](https://web3uikit.com/) | Lightweight reusable Web3 UI components for dapps developers. Web3UIKit accelerates your dapp development and empowers you to build beautiful dapps. |
+| 10 | [Smile Coin](https://smilecoin.us/sdk) | Convert any platform to web3 with 10 lines of code |
 
 ## Books
 
@@ -99,6 +101,7 @@ Please share it among your friend, collegues, students & communities.
 | 10 | [web3 starter pack 🏄🏾‍♂️](https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc/edit#) | Curated contents on getting stared with Web3 & basics |
 | 11 | [Implement Multi Send on Ethereum by Smart Contract with solidity](https://medium.com/coinmonks/implement-multi-send-on-ethereum-by-smart-contract-with-solidity-47e0bf82b60c) | Multi Send on Ethereum by Mahdi Darabi |
 | 12 | [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://blog.suhailkakar.com/the-complete-roadmap-and-resources-to-become-a-web3-developer-in-2022#heading-web3js) | The Complete Roadmap and Resources to Become a Web3 Developer in 2022 |
+| 13 | [web3words](https://www.web3words.xyz/) | A searchable glossary of web3/nft/crypto terms. |
 
 
 ## Demo Projects
