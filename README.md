@@ -143,6 +143,7 @@ Please share it among your friend, collegues, students & communities.
 | 5 | [CoinSutra Community](https://discord.gg) | |
 | 6 | [🟩Free Web3 Community - Twitter](https://twitter.com/i/communities/1516012976070959105) | A community for Web3 experts, enthusiasts, and beginners. The goal is to make Web3 accessible to as many people as possible, through free resources. |
 | 7 | [BuidlGuidl](https://buidlguidl.com/) | A curated group of Ethereum builders creating products, prototypes, and tutorials to enrich the web3 ecosytem. |
+| 8 | [Vinci 💎 Web3 Community Building](https://www.vinci.so/) | community for Web3 Community Managers. Meet, learn and build with other Web3 community managers  |
 
 
 ## Web3 VC
