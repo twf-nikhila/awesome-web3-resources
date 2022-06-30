@@ -61,6 +61,7 @@ Please share it among your friend, collegues, students & communities.
 | 18 | [Blockchain by Berkeley](https://blockchain.berkeley.edu/courses/) | Blockchain Fundamentals & Blockchain Developers course  | Free | Beginner |
 | 19 | [Figment Learn](https://learn.figment.io/) | Learn Avalance, Celo, Ceramic,Cosmos, Ethereum, Mina, Near, Oasis, Polkadot, Polygon, Pyth, Secret, Solana, Tezos, TheGraph.  | Free | Beginner, Intermediate |
 | 20 | [WagmiPedia](https://www.wagmipedia.xyz/) | Curated resources for designers, developers, and business people to get on the web3 hype train.  | Paid | Beginner, Intermediate |
+| 21 | [Theproduct.house Live-web3-masterclass](https://www.theproduct.house/learn/live-web3-masterclass) | A series of live learning masterclasses & workshops by seasoned web3 buidlers - all you need to get started on your journey to the future.  | Free | Beginner, Intermediate |
 
 
 ## Tools
@@ -144,6 +145,12 @@ Please share it among your friend, collegues, students & communities.
 | 6 | [🟩Free Web3 Community - Twitter](https://twitter.com/i/communities/1516012976070959105) | A community for Web3 experts, enthusiasts, and beginners. The goal is to make Web3 accessible to as many people as possible, through free resources. |
 | 7 | [BuidlGuidl](https://buidlguidl.com/) | A curated group of Ethereum builders creating products, prototypes, and tutorials to enrich the web3 ecosytem. |
 | 8 | [Vinci 💎 Web3 Community Building](https://www.vinci.so/) | community for Web3 Community Managers. Meet, learn and build with other Web3 community managers  |
+| 9 | [Jericho](https://www.jericho.gg/) | Where web3 builders meet, learn, and build together.  |
+| 10 | [Safary](https://www.safary.club/) | web3 growth community  |
+| 11 | [KERNEL](https://www.kernel.community/en/start/) | peer-to-peer learning community dedicated to the journey towards a better understanding of truth:  |
+| 12 | [Zen Academy](https://www.zenacademy.com/) | A welcoming space for anyone, anywhere, at any level to learn about NFTs & Web3.   |
+| 13 | [Talent Protocol](https://www.talentprotocol.com/) | The web3 professional network where anyone can discover high-potential talent and invest in their careers.💫  |
+| 14 | [Commonwealth](https://commonwealth.im/) | an all-in-one platform for on-chain communities to discuss, vote, and fund projects together.  |
 
 
 ## Web3 VC
