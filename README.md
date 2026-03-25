@@ -3,6 +3,7 @@
 😎 Awesome resource related to Web3 - Courses, Tools, Youtube videos, Job-Board and more
 
 
+- [blockchain](https://www.lianxinshe666.com/special/blockchain/) A curated blockchain learning resource hub for beginners
 # Contents
 
 * 👨‍🏫 [Courses](#courses)
