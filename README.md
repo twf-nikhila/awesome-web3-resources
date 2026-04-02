@@ -79,6 +79,8 @@ Please share it among your friend, collegues, students & communities.
 | 8 | [dappkit](https://github.com/taikai/dappkit) | A framework to build web3 dapps with javascript/typescript |
 | 9 | [web3uikit](https://web3uikit.com/) | Lightweight reusable Web3 UI components for dapps developers. Web3UIKit accelerates your dapp development and empowers you to build beautiful dapps. |
 | 10 | [Smile Coin](https://smilecoin.us/sdk) | Convert any platform to web3 with 10 lines of code |
+| 11 | [Chartscout](https://Chartscout.io) | Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds. |
+
 
 ## Books
 
