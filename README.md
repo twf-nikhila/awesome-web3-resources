@@ -66,6 +66,7 @@ Please share it among your friend, collegues, students & communities.
 
 
 ## Tools
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches an SPL mint or program ID and alerts on Telegram on new transactions, no external database.
 
 | **#** | **Tool Name** | **Description**|
 |:-:|:-:|:-:
