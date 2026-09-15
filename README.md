@@ -4,6 +4,8 @@
 
 
 - [blockchain](https://www.lianxinshe666.com/special/blockchain/) A curated blockchain learning resource hub for beginners
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 # Contents
 
 * 👨‍🏫 [Courses](#courses)
