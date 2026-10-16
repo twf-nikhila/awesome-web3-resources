@@ -126,6 +126,7 @@ Please share it among your friend, collegues, students & communities.
 | 4 | [Crypto Jobs List](https://cryptojobslist.com/) |
 | 5 | [DEFi jobs](https://www.defi.jobs/) |
 | 6 | [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) |
+| 7 | [JobsInCrypto](https://jobsincrypto.net) |
 
 
 ## News Letters
