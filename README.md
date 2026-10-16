@@ -189,3 +189,5 @@ Please share it among your friend, collegues, students & communities.
 | 1 | [Web3.Storage](https://web3.storage/) | decentralized storaging of Data via our API or our web UI for free. IPFS and Filecoin storage providers |
 | 2 | [Web3 Funding Database](https://docs.google.com/spreadsheets/d/1Qd42u8WWnu5yYOAE5u-qLjjbLTlqGKzfFmOywHBBLFQ/edit#gid=246452209) | Database of all Web3 companies funding by Milkroad |
 | 3 | [Continuum](https://www.continuum.xyz/) | THE LEARNING PLATFORM FOR CREATIVES, earn crypto rewards for learning |
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Agent / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & MEV infrastructure agent, EIP-1153 transient-storage `AtomicArb.sol`, 0%-fee Morpho Blue flash-loan callback (`QWKZeroCapitalMorphoArb.sol`), and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources.
