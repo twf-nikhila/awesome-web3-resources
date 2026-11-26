@@ -152,6 +152,7 @@ Please share it among your friend, collegues, students & communities.
 | 12 | [Zen Academy](https://www.zenacademy.com/) | A welcoming space for anyone, anywhere, at any level to learn about NFTs & Web3.   |
 | 13 | [Talent Protocol](https://www.talentprotocol.com/) | The web3 professional network where anyone can discover high-potential talent and invest in their careers.💫  |
 | 14 | [Commonwealth](https://commonwealth.im/) | an all-in-one platform for on-chain communities to discuss, vote, and fund projects together.  |
+| 15 | [Dapping](https://dapp.ing/) | Professional network for builders in crypto and AI, where companies verified on Dapping confirm the roles people held and hackathon and grant organizers issue results.  |
 
 
 ## Web3 VC
